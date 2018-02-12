@@ -1,0 +1,12 @@
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\bin\Debug\netstandard2.0\DroidVersionGuide.deps.json
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\bin\Debug\netstandard2.0\DroidVersionGuide.dll
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\bin\Debug\netstandard2.0\DroidVersionGuide.pdb
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.csproj.CoreCompileInputs.cache
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.App.xaml.g.cs
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.Views.DetailPage.xaml.g.cs
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.Views.MainPage.xaml.g.cs
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.AssemblyInfoInputs.cache
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.AssemblyInfo.cs
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.dll
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.pdb
+C:\Project2018\DroidVersionGuide\DroidVersionGuide\DroidVersionGuide\obj\Debug\netstandard2.0\DroidVersionGuide.csprojResolveAssemblyReference.cache
